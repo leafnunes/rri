@@ -1603,9 +1603,9 @@ const DEMO = [
     "lake-1", "lake-2", "lake-3", "lake-4", "lake-rail", "lake-road", "lake-rail-road",
     "forest"
 ];
-const DICE_REGULAR_1 = ["road-i", "rail-i", "road-l", "rail-l", "road-t", "rail-t"];
+const DICE_REGULAR_1 = ["road-i", "rail-i", "road-t", "rail-t"];
 const DICE_REGULAR_2 = ["bridge", "bridge"];
-const DICE_LAKE = ["lake-2", "lake-3", "lake-rail", "lake-road", "lake-rail-road"];
+const DICE_LAKE = ["lake-3", "lake-rail-road"];
 
 class Dice {
     constructor(_type, _sid) {
